@@ -34,6 +34,8 @@ echo "------------------------------------------------------"
 
 ladder+=( "4" "9" "20" "28" "40" "52" "63" "74" )
 snake+=( "3" "17" "35" "45" "54" "62" "87" "93" "95" "99" )
+echo "game starting in 5 sec....."
+sleep 5
 tput clear
 echo "GAME IS STARTING"
 start1=0
